@@ -1,0 +1,5 @@
+RECIPE BY: CRUSHER
+IN:
+PFAAGeologica:weakOreRock:0 as 1
+OUT:
+chemlab:crushedore-borax as 9
